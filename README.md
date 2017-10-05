@@ -5,4 +5,4 @@ Here you have access to the full pdf describing the project developed in my Mast
 
 You also have access to the training data used via the CSV file containing all required information to download the crater patches to train a supervised model designed to recognize craters
 
-The images of Lunar Scenes can be downloaded free-of-charge on the Lunar Orbital Data Explorer : https://goo.gl/7j8CjM 
+The NAC CDR images of Lunar Scenes can be downloaded free-of-charge on the Lunar Orbital Data Explorer (https://goo.gl/7j8CjM) and the ortho-rectified images can be found on this link : https://goo.gl/qivZYt
